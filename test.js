@@ -1,0 +1,4 @@
+function toggleSections() {
+    $("section").fadeToggle();
+}
+
